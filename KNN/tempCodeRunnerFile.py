@@ -1,0 +1,1 @@
+print(f"Shape of training data: {X_train.shape}")
